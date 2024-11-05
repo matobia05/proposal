@@ -1,4 +1,4 @@
-# proposal
+# iOS Project Proposal
 iOS Track Project Proposal
 ## What type of project is this?
 
