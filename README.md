@@ -20,7 +20,7 @@ allow users to join group study sessions and create small study communities for
 particular courses. This app’s overall goal is to foster academic collaboration 
 in a way that fits the fast-paced schedules and unique needs of college students.
 
-## Why did you choose to work on this project?
+## Why did I choose to work on this project?
 
 I chose to work on "Study Buddy" because I know firsthand how challenging it can 
 be to find effective study partners who match one's schedule, study goals, and 
@@ -54,7 +54,7 @@ While computers might be used by students to access supplementary materials,
 "Study Buddy" is intended to be a mobile solution. By focusing on iOS, I can ensure 
 the app is streamlined, portable, and easily integrated into students' daily routines.
 
-## What problem does your project hope to tackle?
+## What problem does this project hope to tackle?
 
 The problem that the Study Buddy App hopes to tackle is the **difficulty students 
 face in finding suitable study partners**. Often, students struggle to connect with 
