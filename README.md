@@ -10,7 +10,7 @@ students to find compatible partners with similar schedules and goals. Through
 "Study Buddy," users can create profiles indicating their preferred study styles, 
 times, and subjects of interest, making it easy to form effective study teams.
 
-Additionally, the app will include a built-in messaging feature, allowing students 
+Additionally, the app will include a built-in messaging feature, allowing students
 to communicate and plan study sessions directly within the app. To enhance its 
 functionality, “Study Buddy” will also include a scheduling feature, allowing 
 users to set up and confirm study sessions, as well as reminders to stay organized. 
@@ -81,3 +81,6 @@ achieve their academic goals. Furthermore, the app’s features will help studen
 manage their time more efficiently, promoting a balanced and productive approach to 
 their studies. Ultimately, this will improve both their academic outcomes and overall 
 college experience.
+
+## Sketch
+![project sketch-1](https://github.com/user-attachments/assets/39348eaf-e8f7-4234-96bc-49c0bda11abb)
