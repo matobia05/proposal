@@ -82,5 +82,16 @@ manage their time more efficiently, promoting a balanced and productive approach
 their studies. Ultimately, this will improve both their academic outcomes and overall 
 college experience.
 
+## Tools and Frameworks Used
+
+**Swift:** primary language for iOS development, Swift is essential for building the app.
+  https://developer.apple.com/tutorials/develop-in-swift/welcome-to-develop-in-swift-tutorials
+**Xcode:** Apple’s integrated development environment (IDE) for iOS development, including tools for code, UI design, testing, and debugging.
+  https://developer.apple.com/tutorials/develop-in-swift/#explore-xcode
+**Other Learning Resources:**
+  https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/
+  https://www.youtube.com/watch?v=8Xg7E9shq0U
+  https://developer.apple.com/tutorials/develop-in-swift
+
 ## Sketch
 ![project sketch-1](https://github.com/user-attachments/assets/39348eaf-e8f7-4234-96bc-49c0bda11abb)
